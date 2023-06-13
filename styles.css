@@ -1,0 +1,23 @@
+body {
+    margin: 50px;
+    text-align: left;
+    background-color: #7098a2;
+    color: #0a0a0a;
+    font-family: 'Arial';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+ h1 {
+  text-align:center;
+ }
+ button {
+  background-color: #589f5e; /* Green */
+  border: ;
+  color: rgb(166, 225, 190);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 30%;
+}
