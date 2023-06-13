@@ -10,7 +10,7 @@ body {
  h1 {
   text-align:center;
  }
- button {
+ button:hover {
   background-color: #589f5e; /* Green */
   border: ;
   color: rgb(166, 225, 190);
